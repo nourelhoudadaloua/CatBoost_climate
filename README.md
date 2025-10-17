@@ -21,6 +21,7 @@ about operational efficiency with respect to water use or the risk that can affe
 facilities due to draining water resources.
 
 **2) Machine Learning : CatBoost Model**
+
 In the traditional Machine Learning methods, the usual way of dealing with categorical variables is through One-Hot Encoding or Label Encoding. In our case, the majority of the
 dataframe features are categorical, which means that using the techniques above would result in a sparse matrix, increasing the risk of overfitting and reducing the scalability **Liang,
 Z., (2025)**. CatBoost was introduced as a new gradient boosting toolkit to introduce an innovative way of dealing with categorical variables, accomplished through an implementation of ordered boosting. It also seeks to address the prediction shift issue we find in the
