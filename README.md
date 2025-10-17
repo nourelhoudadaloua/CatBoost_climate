@@ -1,3 +1,6 @@
+In this project, I wanted to explore the likelihood of a company having deterimental water effects in relation to other variables in the CDP Water database through harnessing a machine learning model called CatBoost data. In the following section, I will discuss the previous use of Machine learning models in water stewardship, as well as the specificities of my implementation. 
+
+
 **1) Machine Learning Applications in Corporate Sustainability and Water Stewardship**
 
 The main application of machine learning algorithms in the sustainability sphere centers around the prediction of the ESG score in relation to other indicators. Notably, Subrama-
